@@ -16,3 +16,12 @@ Welcome to the **Number Guessing Game**, where you try to guess the number that 
 ## ❓Future Updates❓
 - I was about to add GUI to this game but since my intention was to make a console-based game, I want to keep it as that!
 - Will probably add more features if (demand >= supply){};
+
+## 📝 License
+This project is licensed under **Creative Commons BY-NC-ND 4.0**.  
+🔒 **This means:**  
+- 🚫 You **CANNOT** modify, redistribute, or use this code for commercial purposes.  
+- 👀 You **CAN** stare at it in admiration and appreciate my legendary coding journey.  
+- 🏆 This project exists **strictly for portfolio showcasing**.  
+
+For full details, check the [LICENSE](LICENSE) file.
